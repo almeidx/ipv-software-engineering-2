@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ArrayUtils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/es2/blackboxpartitioning/ArrayUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/com/es2/blackboxpartitioning/ArrayUtils.jar!/" />
+    </SOURCES>
+  </library>
+</component>

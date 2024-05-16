@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestSingleton">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestSingleton</output-path>
+    <root id="archive" name="TestSingleton.jar">
+      <element id="module-output" name="TestBlackBoxPartitioning" />
+    </root>
+  </artifact>
+</component>
